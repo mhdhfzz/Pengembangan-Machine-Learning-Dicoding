@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://colab.research.google.com/drive/1F20ZSL9m0U-98P8zslMSJYBV7fVEVbZR?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<a href="https://colab.research.google.com/github/mhdhfzz/Pengembangan-Machine-Learning-Dicoding/blob/main/Image%20Classification%20Model%20Deployment/Image_Classification_Model_Deployment.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 <a href="https://www.linkedin.com/in/mhdhfzz"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/mhdhfzz"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github" alt="Github"></a>
 <a href="https://www.kaggle.com/datasets/hadasu92/cnn-articles-after-basic-cleaning"><img src="https://img.shields.io/badge/Dataset-Download-green" alt="Dataset"></a>
