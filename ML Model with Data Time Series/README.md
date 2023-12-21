@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://colab.research.google.com/drive/1I0_Sdt4nbEO_oqWSCyimiJA2m4lbxvYK?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<a href="https://colab.research.google.com/github/mhdhfzz/Pengembangan-Machine-Learning-Dicoding/blob/main/ML%20Model%20with%20Data%20Time%20Series/ML_Model_With_Data_Time_Series.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 <a href="https://www.linkedin.com/in/mhdhfzz"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/mhdhfzz"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github" alt="Github"></a>
 <a href="https://www.kaggle.com/datasets/fekihmea/metro-interstate-traffic-volume"><img src="https://img.shields.io/badge/Dataset-Download-green" alt="Dataset"></a>
