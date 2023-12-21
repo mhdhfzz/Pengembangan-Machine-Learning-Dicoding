@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://colab.research.google.com/drive/1e1eMaoxI06Redyj0yRK-THAOL4j3f9Pq?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<a href="https://colab.research.google.com/github/mhdhfzz/Pengembangan-Machine-Learning-Dicoding/blob/main/NLP%20Model%20with%20Tensorflow/NLP_Model_With_Tensorflow.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 <a href="https://www.linkedin.com/in/mhdhfzz"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/mhdhfzz"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github" alt="Github"></a>
 <a href="https://www.kaggle.com/datasets/hadasu92/cnn-articles-after-basic-cleaning"><img src="https://img.shields.io/badge/Dataset-Download-green" alt="Dataset"></a>
